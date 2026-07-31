@@ -71,8 +71,8 @@ Arduino-Ultrasonic-Servo-Control
 ├── Servo_Ultrasonic.ino
 ├── README.md
 └── Images
-    ├── circuit_90degree.mov
-    ├── circuit_180degree_15cm.mov
+    ├── circuit_90degree.mp4
+    ├── circuit_180degree_15cm.mp4
     └── working.mov
 ```
 
@@ -83,6 +83,8 @@ Arduino-Ultrasonic-Servo-Control
 The system successfully detects nearby objects using the HC-SR04 ultrasonic sensor. When an object is detected within 10 cm, the servo rotates to 90° and the LED turns on. When the object moves away, the servo returns to 0° and the LED turns off.
 
 <img width="959" height="772" alt="Fabulous Blad" src="https://github.com/user-attachments/assets/50078ca9-523c-4e1c-80ea-4e8a63b16244" />
+<img width="1280" height="1072" alt="m" src="https://github.com/user-attachments/assets/8dce8a38-3425-4e95-92a2-b0b45e181782" />
+
 
 
 ---
